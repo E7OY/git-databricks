@@ -12,3 +12,5 @@
 * Una vez clonado el repo, si le damos a los tres puntos de la carpeta -> Git, se nos abre el diálogo para realizar operaciones Git:
 ![Operaciones git](./img/operaciones.git.png)
 * Desde este diálogo podremos hacer pull de los cambios del repo remoto, hacer un Commit & Push al repo remoto e incluso crear una nueva rama dentro del repo.
+
+### Automatizar pull requests
