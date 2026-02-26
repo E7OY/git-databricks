@@ -12,5 +12,5 @@
 * Una vez clonado el repo, si le damos a los tres puntos de la carpeta -> Git, se nos abre el diálogo para realizar operaciones Git:
 ![Operaciones git](./img/operaciones.git.png)
 * Desde este diálogo podremos hacer pull de los cambios del repo remoto, hacer un Commit & Push al repo remoto e incluso crear una nueva rama dentro del repo.
-
-### Automatizar pull requests
+* Para realizar operaciones sobre un repo, tenemos que tener configurado una credencial, desde los Settings de Databricks -> Linked Accounts -> Add Git Credential y seleccionamos Personal Access Token y en Token tenemos que pegar el token creado desde GitHub.
+* Si no tenemos creado el Token en GitHub, desde GitHub vamos a los Settings de la cuenta -> Developper Settings -> Personal Access Tokens -> Fine-grained tokens -> Generate new token
